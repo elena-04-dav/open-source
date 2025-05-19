@@ -11,6 +11,7 @@ class MyClass {
     y = myObj.nextInt(); // Read user input
 
     sum = x + y;  // Calculate the sum of x + y
-    System.out.println("Sum is: " + sum); // Print the sum
+    System.out.println("Sum is: " + sum);
+    End Class// Print the sum
   }
 } 
